@@ -1,0 +1,2 @@
+# AnyDeksReset
+AnyDesk Reset
